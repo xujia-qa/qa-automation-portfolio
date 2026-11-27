@@ -1,4 +1,4 @@
-# QA Automation Portfolio
+﻿# QA Automation Portfolio
 
 软件测试 / 接口自动化学习仓库，记录从零到能独立写接口自动化测试的完整过程。
 
@@ -15,9 +15,19 @@
 - pytest / requests
 - Git / GitHub
 
+## 目录
+
+- `basics/` — Python 基础练习（变量、列表/字典、循环、函数、文件、异常）
+- `api/` — requests 接口练习（GET/POST、状态码、Token、JSON 取值）
+- `docs/` — 测试文档（缺陷流转示例）
+
 ## 进度
 
 | 日期 | 内容 |
 |---|---|
 | 2026-11-20 | 环境搭建：Python / VS Code / Git / GitHub |
 | 2026-11-21 | 测试基础 + 仓库初始化 |
+| 2026-11-22 ~ 11.24 | Python 基础、HTTP 请求、状态码与 Token |
+| 2026-11-25 | 用例设计：等价类 / 边界值 / 场景法 |
+| 2026-11-26 | JSON 响应取值：嵌套字段与数组 |
+| 2026-11-27 | 代码入库 + 缺陷流转案例 |
